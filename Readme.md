@@ -1,26 +1,28 @@
 # NCSS 4004 emulator
+
 This project is the culmination of a few years of learning and shows how from 2023 (OldestEmulator.c) to now (ThirdBFE.c) I have evolved as a programmer. It is by no means perfect and in the coming weeks I will improve it however, it conveys the importance of optomisation and in depth learning of languages.
 
 ## Inspiration
-In year 10 I went on a 10 day coding camp with NCSS where we stayed at New College and were taught by Richard Buckland and an amazing team of tutors about the fundamentals of computer programming. This introduced me to the world of embedded systems and low latency programming which has inspired my projects and interests ever since. Within this program we worked with a simplified version of the IBM 4004 processor in which there was 16 bytes of ram and the instruction set,
-0: Halt
-1: Increment R0
-2: Decrement R0
-3: Increment R1
-4: Decrement R1
-5: Compute R0 + R1 and put the result in R0
-6: Compute R0 - R1 and put the result in R0
-7: Print R0 (Hex)
-8*: Jump to address <data> if R0 != 0
-9*: Jump to address <data> if R0 == 0
-A*: Load (direct) value <data> into R0
-B*: Load (direct) value <data> into R1
-C*: Copy the contents of R0 into the memory cell at <address>
-D*: Copy the contents of R1 into the memory cell at <address>
-E*: Swap the contents of R0 and memory cell at <address>
-F*: Swap the contents of R1 and memory cell at <address>
 
-Which posed a interesting challenge that I have thought about on and off ever since.
+In year 10 I went on a 10 day coding camp with NCSS where we stayed at New College and were taught by Richard Buckland and an amazing team of tutors about the fundamentals of computer programming. This introduced me to the world of embedded systems and low latency programming which has inspired my projects and interests ever since. Within this program we worked with a simplified version of the IBM 4004 processor in which there was 16 bytes of ram and the instruction set,  
+0: Halt  
+1: Increment R0  
+2: Decrement R0  
+3: Increment R1  
+4: Decrement R1  
+5: Compute R0 + R1 and put the result in R0  
+6: Compute R0 - R1 and put the result in R0  
+7: Print R0 (Hex)  
+8*: Jump to address \<data\> if R0 != 0  
+9*: Jump to address \<data\> if R0 == 0  
+A*: Load (direct) value \<data\> into R0  
+B*: Load (direct) value \<data\> into R1  
+C*: Copy the contents of R0 into the memory cell at \<address\>  
+D*: Copy the contents of R1 into the memory cell at \<address\>  
+E*: Swap the contents of R0 and memory cell at \<address\>  
+F*: Swap the contents of R1 and memory cell at \<address\>
+
+Which posed a interesting challenge that I have thought about on and off ever since.  
 What it is actually doing within this challenge is attempting to solve a challenge they set during the course of the camp which is the "busy beaver challenge" which was to attempt to make the longest running program out of the 16 byte ram and the instructions given which halts.
 
 ## How I made it:
