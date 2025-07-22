@@ -1,0 +1,191 @@
+NEW
+Iter 0:
+	r0 = 0, r1 = 0, pc = 0
+	Ram = 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Iter 1:
+	r0 = 1, r1 = 0, pc = 1
+	Ram = 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Iter 0:
+	r0 = 0, r1 = 0, pc = 0
+	Ram = 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Iter 2:
+	r0 = 2, r1 = 0, pc = 2
+	Ram = 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+NEW
+Iter 0:
+	r0 = 0, r1 = 0, pc = 0
+	Ram = 2 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Iter 1:
+	r0 = F, r1 = 0, pc = 1
+	Ram = 2 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Iter 0:
+	r0 = 0, r1 = 0, pc = 0
+	Ram = 2 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Iter 2:
+	r0 = 0, r1 = 0, pc = 2
+	Ram = 2 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+NEW
+Iter 0:
+	r0 = 0, r1 = 0, pc = 0
+	Ram = 3 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Iter 1:
+	r0 = 0, r1 = 1, pc = 1
+	Ram = 3 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Iter 0:
+	r0 = 0, r1 = 0, pc = 0
+	Ram = 3 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Iter 2:
+	r0 = 1, r1 = 1, pc = 2
+	Ram = 3 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+NEW
+Iter 0:
+	r0 = 0, r1 = 0, pc = 0
+	Ram = 4 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Iter 1:
+	r0 = 0, r1 = F, pc = 1
+	Ram = 4 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Iter 0:
+	r0 = 0, r1 = 0, pc = 0
+	Ram = 4 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Iter 2:
+	r0 = 1, r1 = F, pc = 2
+	Ram = 4 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+NEW
+Iter 0:
+	r0 = 0, r1 = 0, pc = 0
+	Ram = 5 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Iter 1:
+	r0 = 0, r1 = 0, pc = 1
+	Ram = 5 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Iter 0:
+	r0 = 0, r1 = 0, pc = 0
+	Ram = 5 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Iter 2:
+	r0 = 1, r1 = 0, pc = 2
+	Ram = 5 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+NEW
+Iter 0:
+	r0 = 0, r1 = 0, pc = 0
+	Ram = 6 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Iter 1:
+	r0 = 0, r1 = 0, pc = 1
+	Ram = 6 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Iter 0:
+	r0 = 0, r1 = 0, pc = 0
+	Ram = 6 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Iter 2:
+	r0 = 1, r1 = 0, pc = 2
+	Ram = 6 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+NEW
+Iter 0:
+	r0 = 0, r1 = 0, pc = 0
+	Ram = 7 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Iter 1:
+	r0 = 0, r1 = 0, pc = 1
+	Ram = 7 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Iter 0:
+	r0 = 0, r1 = 0, pc = 0
+	Ram = 7 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Iter 2:
+	r0 = 1, r1 = 0, pc = 2
+	Ram = 7 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+NEW
+Iter 0:
+	r0 = 0, r1 = 0, pc = 0
+	Ram = 8 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Iter 1:
+	r0 = 0, r1 = 0, pc = 2
+	Ram = 8 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Iter 0:
+	r0 = 0, r1 = 0, pc = 0
+	Ram = 8 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Inf caught by hair tourtouse after 2 steps in: 18
+h.pc = 2, t.pc = 2, h.regs = 0, t.regs = 0
+NEW
+Iter 0:
+	r0 = 0, r1 = 0, pc = 0
+	Ram = 9 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Iter 1:
+	r0 = 0, r1 = 0, pc = 1
+	Ram = 9 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Iter 0:
+	r0 = 0, r1 = 0, pc = 0
+	Ram = 9 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Iter 2:
+	r0 = 1, r1 = 0, pc = 2
+	Ram = 9 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+NEW
+Iter 0:
+	r0 = 0, r1 = 0, pc = 0
+	Ram = A 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Iter 1:
+	r0 = 1, r1 = 0, pc = 2
+	Ram = A 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Iter 0:
+	r0 = 0, r1 = 0, pc = 0
+	Ram = A 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Inf caught by hair tourtouse after 2 steps in: 1A
+h.pc = 2, t.pc = 2, h.regs = 1, t.regs = 1
+NEW
+Iter 0:
+	r0 = 0, r1 = 0, pc = 0
+	Ram = B 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Iter 1:
+	r0 = 0, r1 = 1, pc = 2
+	Ram = B 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Iter 0:
+	r0 = 0, r1 = 0, pc = 0
+	Ram = B 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Inf caught by hair tourtouse after 2 steps in: 1B
+h.pc = 2, t.pc = 2, h.regs = 10, t.regs = 10
+NEW
+Iter 0:
+	r0 = 0, r1 = 0, pc = 0
+	Ram = C 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Iter 1:
+	r0 = 0, r1 = 0, pc = 2
+	Ram = C 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Iter 0:
+	r0 = 0, r1 = 0, pc = 0
+	Ram = C 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Inf caught by hair tourtouse after 2 steps in: C
+h.pc = 2, t.pc = 2, h.regs = 0, t.regs = 0
+NEW
+Iter 0:
+	r0 = 0, r1 = 0, pc = 0
+	Ram = D 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Iter 1:
+	r0 = 0, r1 = 0, pc = 2
+	Ram = D 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Iter 0:
+	r0 = 0, r1 = 0, pc = 0
+	Ram = D 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Inf caught by hair tourtouse after 2 steps in: D
+h.pc = 2, t.pc = 2, h.regs = 0, t.regs = 0
+NEW
+Iter 0:
+	r0 = 0, r1 = 0, pc = 0
+	Ram = E 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Iter 1:
+	r0 = 1, r1 = 0, pc = 2
+	Ram = E 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Iter 0:
+	r0 = 0, r1 = 0, pc = 0
+	Ram = E 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Inf caught by hair tourtouse after 2 steps in: E
+h.pc = 2, t.pc = 2, h.regs = 1, t.regs = 1
+NEW
+Iter 0:
+	r0 = 0, r1 = 0, pc = 0
+	Ram = F 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Iter 1:
+	r0 = 0, r1 = 1, pc = 2
+	Ram = F 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Iter 0:
+	r0 = 0, r1 = 0, pc = 0
+	Ram = F 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Inf caught by hair tourtouse after 2 steps in: F
+h.pc = 2, t.pc = 2, h.regs = 10, t.regs = 10
+Best runtime up to size 1F was 3 with:
+	11
+	Also took 0 inf loops

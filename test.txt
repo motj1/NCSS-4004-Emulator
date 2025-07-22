@@ -1,0 +1,35 @@
+5 3 1 8
+0 0 0 0
+0 0 0 0
+0 0 0 0
+
+35218
+
+81C26E
+
+E 6 2 C
+1 8 0 0
+
+226
+
+6 9 2 5
+3 8 0 0
+
+1147
+
+// 0: Halt
+// 1: Increment R0
+// 2: Decrement R0
+// 3: Increment R1
+// 4: Decrement R1
+// 5: Compute R0 + R1 and put the result in R0
+// 6: Compute R0 - R1 and put the result in R0
+// 7: Print R0 (Hex)
+// 8*: Jump to address <data> if R0 != 0
+// 9*: Jump to address <data> if R0 == 0
+// A*: Load (direct) value <data> into R0
+// B*: Load (direct) value <data> into R1
+// C*: Copy the contents of R0 into the memory cell at <address>
+// D*: Copy the contents of R1 into the memory cell at <address>
+// E*: Swap the contents of R0 and memory cell at <address>
+// F*: Swap the contents of R1 and memory cell at <address>
